@@ -175,10 +175,10 @@ class HomePage extends StatelessWidget {
                 child: Center
                   (child:
               const Padding(
-                  padding: const EdgeInsets.all(30.0),
+                  padding: EdgeInsets.all(30.0),
                   child: Text(
                       "Submit",
-                  style: const TextStyle(
+                  style: TextStyle(
                     fontWeight: FontWeight.bold,
                     fontSize: 28,
                   ),
